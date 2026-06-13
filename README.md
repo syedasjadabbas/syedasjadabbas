@@ -103,6 +103,7 @@ Modern responsive e-commerce frontend built with React.js and Tailwind CSS focus
 
 * GitHub: https://github.com/syedasjadabbas
 * LinkedIn: https://linkedin.com/in/syed-asjad-abbas
+* Portfolio: https://www.syedasjadabbas.dev/
 * Email: [asjadabbaszaidi@gmail.com](mailto:asjadabbaszaidi@gmail.com)
 
 
