@@ -8,6 +8,10 @@ AI & Full-Stack Engineer focused on backend systems, scalable applications, NLP 
 
 I build full-stack platforms, AI-powered systems, mobile applications, and operational business software with a focus on maintainable architecture, modular workflows, and production-oriented engineering practices.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://www.syedasjadabbas.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-asjad-abbas/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asjadabbaszaidi@gmail.com)
+
 ---
 
 ## About Me
