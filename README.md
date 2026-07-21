@@ -72,9 +72,22 @@ Production-oriented full-stack e-commerce platform featuring scalable backend ar
 
 Flutter-based music streaming application focused on modular frontend architecture, responsive UI workflows, and REST API integration.
 
+### zeploy-web 
+
+Official Zeploy Tech website built with React, TypeScript, Tailwind CSS, and premium SaaS-inspired user experience.
+
+C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
+
+
+### inventory-system
+
+Full-stack inventory management system with product tracking, stock monitoring, order management, and administrative controls.
+
+
 ### Gym Management System
 
 C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
+
 
 ### Northstone E-Commerce
 
