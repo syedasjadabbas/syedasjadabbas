@@ -14,134 +14,14 @@ Currently, I'm building MockAI, a multimodal AI interview evaluation system comb
 
 I enjoy solving engineering problems around scalable backend architecture, intelligent applications, real-time systems, and turning product requirements into working software.
 
-Open to Software Engineering, AI/ML Engineering, Backend, and Full-Stack opportunities.
+### Open To
+
+`Software Engineering` · `AI/ML Engineering` · `Backend Engineering` · `Full-Stack Development` · `Product Engineering` · `Open Source Collaboration`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://www.syedasjadabbas.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-asjad-abbas/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asjadabbaszaidi@gmail.com)
 
-
----
-
-## Tech Stack
-
-### Languages & Frameworks
-
-* Python
-* JavaScript
-* C#
-* React.js
-* FastAPI
-* Flutter
-* Node.js
-* Express.js
-* .NET
-
-### AI & Machine Learning
-
-* NLP
-* BERT
-* DeepFace
-* OpenCV
-* Speech Recognition
-
-### Databases & Tools
-
-* MongoDB
-* MySQL
-* Git & GitHub
-* Postman
-* Tailwind CSS
-* Vite
-
----
-
-## Featured Projects
-
-### MockAI
-
-AI-powered interview evaluation system using NLP, speech recognition, and facial emotion analysis for multimodal performance assessment and intelligent feedback generation.
-
-### EduCart
-
-Production-oriented full-stack e-commerce platform featuring scalable backend architecture, AI chatbot workflows, SEO optimization, and JWT-based authentication.
-
-### TuneBox
-
-Flutter-based music streaming application focused on modular frontend architecture, responsive UI workflows, and REST API integration.
-
-### zeploy-web 
-
-Official Zeploy Tech website built with React, TypeScript, Tailwind CSS, and premium SaaS-inspired user experience.
-
-C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
-
-
-### inventory-system
-
-Full-stack inventory management system with product tracking, stock monitoring, order management, and administrative controls.
-
-
-### Gym Management System
-
-C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
-
-
-### Northstone E-Commerce
-
-Modern responsive e-commerce frontend built with React.js and Tailwind CSS focused on scalable UI architecture and clean shopping workflows.
-
----
-
-## Engineering Interests
-
-* Backend Engineering
-* AI Systems & NLP
-* Full-Stack Development
-* Scalable System Design
-* REST API Architecture
-* Computer Vision
-* Business Software Development
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedasjadabbas&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedasjadabbas&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## Connect With Me
-
-* GitHub: https://github.com/syedasjadabbas
-* LinkedIn: https://linkedin.com/in/syed-asjad-abbas
-* Portfolio: https://www.syedasjadabbas.dev/
-* Email: [asjadabbaszaidi@gmail.com](mailto:asjadabbaszaidi@gmail.com)
-
-
-
-
-
----
-
-## About
-
-I am a Computer Science student at COMSATS University Islamabad, Lahore Campus, focused on software engineering, artificial intelligence, backend systems, and full-stack product development.
-
-My work spans AI-powered applications, scalable APIs, web platforms, mobile applications, and business software. I build systems from requirements and architecture through implementation, testing, deployment, and iteration.
-
-My primary engineering stack centres around Python, FastAPI, React.js, JavaScript, SQL, MongoDB, PostgreSQL, Flutter, and modern AI/ML pipelines.
-
-On the AI side, I work with NLP, deep learning, BERT, Hugging Face Transformers, DeepFace, OpenCV, PyTorch, scikit-learn, and speech processing. My Final Year Project, MockAI, combines multiple AI modalities into an interview evaluation pipeline.
-
-I also founded Zeploy Tech, where I work across product engineering, system design, client delivery, deployment, performance optimisation, and software lifecycle management.
-
-### Open To
-
-`Software Engineering` · `AI/ML Engineering` · `Backend Engineering` · `Full-Stack Development` · `Product Engineering` · `Open Source Collaboration`
 
 ---
 
@@ -196,7 +76,156 @@ I also founded Zeploy Tech, where I work across product engineering, system desi
 | AI Product Engineering | Advanced | Integrating ML pipelines with APIs, frontend applications, databases, and feedback systems |
 
 ---
+---
 
+## Experience
+
+### Founder & Lead Engineer · Zeploy Tech
+
+`Apr 2026 — Present`
+
+Founded an AI-focused software studio and manage software projects across architecture, implementation, deployment, QA, and post-launch maintenance.
+
+- Shipped EduCart and a Gym Management System for paying clients within 60 days.
+- Architected full-stack applications using FastAPI, React.js, MySQL, JWT authentication, and CI/CD workflows.
+- Reduced average API latency by approximately 35% through query indexing, connection pooling, and FastAPI response optimisation.
+- Manage requirements gathering, system design, development, testing, deployment, and maintenance.
+
+`FastAPI` `React.js` `MySQL` `JWT` `CI/CD` `GitHub Actions` `Vercel` `System Design`
+
+<br/>
+
+### Software Development Intern · Svype
+
+`Sep 2025 — Apr 2026`
+
+Worked on TuneBox, a Flutter-based music streaming application, across frontend engineering and API integration.
+
+- Built reusable UI modules for playback and playlist workflows.
+- Integrated REST APIs and managed application state using Provider architecture.
+- Reduced UI codebase size by 40% through reusable component abstraction.
+- Collaborated on API contract design, integration testing, and debugging across playback modules.
+
+`Flutter` `Dart` `REST APIs` `Provider` `Postman` `Mobile Engineering`
+
+<br/>
+
+### Backend & Full-Stack Developer · Freelance
+
+`2024 — Present`
+
+Deliver backend APIs and full-stack software for business use cases across e-commerce and management systems.
+
+- Build applications using FastAPI, React.js, MySQL, and JWT authentication.
+- Work across backend architecture, database design, frontend integration, and deployment.
+- Improve database performance and deployment workflows across client systems.
+
+`Python` `FastAPI` `React.js` `MySQL` `JWT` `Full-Stack Development`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|:---|:---|
+| **Founder, Zeploy Tech** | Founded and lead an AI-focused software studio |
+| **Client Product Delivery** | Shipped EduCart and Gym Management System for paying clients within 60 days |
+| **Backend Performance** | Reduced average API latency by approximately 35% through database and FastAPI optimisation |
+| **Frontend Engineering** | Reduced TuneBox UI code duplication by 40% through reusable component architecture |
+| **AI Engineering** | Building MockAI as a multimodal AI interview evaluation platform |
+| **Software Engineering Internship** | Completed a 7-month software development internship at Svype |
+
+</div>
+
+---
+
+## Certifications
+
+### DeepLearning.AI
+
+<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
+
+### Google
+
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google-4F46E5?style=for-the-badge&logo=google&logoColor=white" />
+
+### AWS
+
+`Certification roadmap in progress`
+
+### Oracle
+
+`Certification roadmap in progress`
+
+### NPTEL
+
+`Certification roadmap in progress`
+
+### Cisco
+
+`Certification roadmap in progress`
+## Featured Projects
+
+### MockAI
+
+AI-powered interview evaluation system using NLP, speech recognition, and facial emotion analysis for multimodal performance assessment and intelligent feedback generation.
+
+### EduCart
+
+Production-oriented full-stack e-commerce platform featuring scalable backend architecture, AI chatbot workflows, SEO optimization, and JWT-based authentication.
+
+### TuneBox
+
+Flutter-based music streaming application focused on modular frontend architecture, responsive UI workflows, and REST API integration.
+
+### zeploy-web 
+
+Official Zeploy Tech website built with React, TypeScript, Tailwind CSS, and premium SaaS-inspired user experience.
+
+C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
+
+
+### inventory-system
+
+Full-stack inventory management system with product tracking, stock monitoring, order management, and administrative controls.
+
+
+### Gym Management System
+
+C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
+
+
+### Northstone E-Commerce
+
+Modern responsive e-commerce frontend built with React.js and Tailwind CSS focused on scalable UI architecture and clean shopping workflows.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedasjadabbas&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedasjadabbas&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## Connect With Me
+
+* GitHub: https://github.com/syedasjadabbas
+* LinkedIn: https://linkedin.com/in/syed-asjad-abbas
+* Portfolio: https://www.syedasjadabbas.dev/
+* Email: [asjadabbaszaidi@gmail.com](mailto:asjadabbaszaidi@gmail.com)
+
+
+
+
+
+
+
+---
 
 ## Experience
 
