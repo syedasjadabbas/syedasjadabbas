@@ -189,15 +189,6 @@ Modern responsive e-commerce frontend built with React.js and Tailwind CSS focus
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedasjadabbas&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedasjadabbas&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ## Connect With Me
 
 * GitHub: https://github.com/syedasjadabbas
@@ -218,16 +209,6 @@ Modern responsive e-commerce frontend built with React.js and Tailwind CSS focus
 <br/>
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasjadabbas&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=syedasjadabbas&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" />
 
 </div>
 
