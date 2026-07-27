@@ -76,7 +76,6 @@ I enjoy solving engineering problems around scalable backend architecture, intel
 | AI Product Engineering | Advanced | Integrating ML pipelines with APIs, frontend applications, databases, and feedback systems |
 
 ---
----
 
 ## Experience
 
@@ -206,71 +205,6 @@ Modern responsive e-commerce frontend built with React.js and Tailwind CSS focus
 * Portfolio: https://www.syedasjadabbas.dev/
 * Email: [asjadabbaszaidi@gmail.com](mailto:asjadabbaszaidi@gmail.com)
 
-
-
----
-
-## Experience
-
-### Founder & Lead Engineer · Zeploy Tech
-
-`Apr 2026 — Present`
-
-Founded an AI-focused software studio and manage software projects across architecture, implementation, deployment, QA, and post-launch maintenance.
-
-- Shipped EduCart and a Gym Management System for paying clients within 60 days.
-- Architected full-stack applications using FastAPI, React.js, MySQL, JWT authentication, and CI/CD workflows.
-- Reduced average API latency by approximately 35% through query indexing, connection pooling, and FastAPI response optimisation.
-- Manage requirements gathering, system design, development, testing, deployment, and maintenance.
-
-`FastAPI` `React.js` `MySQL` `JWT` `CI/CD` `GitHub Actions` `Vercel` `System Design`
-
-<br/>
-
-### Software Development Intern · Svype
-
-`Sep 2025 — Apr 2026`
-
-Worked on TuneBox, a Flutter-based music streaming application, across frontend engineering and API integration.
-
-- Built reusable UI modules for playback and playlist workflows.
-- Integrated REST APIs and managed application state using Provider architecture.
-- Reduced UI codebase size by 40% through reusable component abstraction.
-- Collaborated on API contract design, integration testing, and debugging across playback modules.
-
-`Flutter` `Dart` `REST APIs` `Provider` `Postman` `Mobile Engineering`
-
-<br/>
-
-### Backend & Full-Stack Developer · Freelance
-
-`2024 — Present`
-
-Deliver backend APIs and full-stack software for business use cases across e-commerce and management systems.
-
-- Build applications using FastAPI, React.js, MySQL, and JWT authentication.
-- Work across backend architecture, database design, frontend integration, and deployment.
-- Improve database performance and deployment workflows across client systems.
-
-`Python` `FastAPI` `React.js` `MySQL` `JWT` `Full-Stack Development`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| **Founder, Zeploy Tech** | Founded and lead an AI-focused software studio |
-| **Client Product Delivery** | Shipped EduCart and Gym Management System for paying clients within 60 days |
-| **Backend Performance** | Reduced average API latency by approximately 35% through database and FastAPI optimisation |
-| **Frontend Engineering** | Reduced TuneBox UI code duplication by 40% through reusable component architecture |
-| **AI Engineering** | Building MockAI as a multimodal AI interview evaluation platform |
-| **Software Engineering Internship** | Completed a 7-month software development internship at Svype |
-
-</div>
-
 ---
 
 ## GitHub Analytics
@@ -330,10 +264,8 @@ learning:
   - Cloud Infrastructure
 
 building:
-  - MockAI
   - AI-powered software products
   - Full-stack production systems
-  - Zeploy Tech
 
 exploring:
   - Multimodal AI
