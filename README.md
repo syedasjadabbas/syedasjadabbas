@@ -124,48 +124,6 @@ Deliver backend APIs and full-stack software for business use cases across e-com
 
 ---
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| **Founder, Zeploy Tech** | Founded and lead an AI-focused software studio |
-| **Client Product Delivery** | Shipped EduCart and Gym Management System for paying clients within 60 days |
-| **Backend Performance** | Reduced average API latency by approximately 35% through database and FastAPI optimisation |
-| **Frontend Engineering** | Reduced TuneBox UI code duplication by 40% through reusable component architecture |
-| **AI Engineering** | Building MockAI as a multimodal AI interview evaluation platform |
-| **Software Engineering Internship** | Completed a 7-month software development internship at Svype |
-
-</div>
-
----
-
-## Certifications
-
-### DeepLearning.AI
-
-<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
-
-### Google
-
-<img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google-4F46E5?style=for-the-badge&logo=google&logoColor=white" />
-
-### AWS
-
-`Certification roadmap in progress`
-
-### Oracle
-
-`Certification roadmap in progress`
-
-### NPTEL
-
-`Certification roadmap in progress`
-
-### Cisco
-
-`Certification roadmap in progress`
 ## Featured Projects
 
 ### MockAI
@@ -201,6 +159,35 @@ C#/.NET-based operational management platform featuring membership workflows, at
 
 Modern responsive e-commerce frontend built with React.js and Tailwind CSS focused on scalable UI architecture and clean shopping workflows.
 
+
+---
+
+## Certifications
+
+### DeepLearning.AI
+
+<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
+
+### Google
+
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google-4F46E5?style=for-the-badge&logo=google&logoColor=white" />
+
+### AWS
+
+`Certification roadmap in progress`
+
+### Oracle
+
+`Certification roadmap in progress`
+
+### NPTEL
+
+`Certification roadmap in progress`
+
+### Cisco
+
+`Certification roadmap in progress`
+
 ---
 
 ## GitHub Stats
@@ -218,10 +205,6 @@ Modern responsive e-commerce frontend built with React.js and Tailwind CSS focus
 * LinkedIn: https://linkedin.com/in/syed-asjad-abbas
 * Portfolio: https://www.syedasjadabbas.dev/
 * Email: [asjadabbaszaidi@gmail.com](mailto:asjadabbaszaidi@gmail.com)
-
-
-
-
 
 
 
@@ -285,55 +268,6 @@ Deliver backend APIs and full-stack software for business use cases across e-com
 | **Frontend Engineering** | Reduced TuneBox UI code duplication by 40% through reusable component architecture |
 | **AI Engineering** | Building MockAI as a multimodal AI interview evaluation platform |
 | **Software Engineering Internship** | Completed a 7-month software development internship at Svype |
-
-</div>
-
----
-
-## Certifications
-
-### DeepLearning.AI
-
-<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
-
-### Google
-
-<img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google-4F46E5?style=for-the-badge&logo=google&logoColor=white" />
-
-### AWS
-
-`Certification roadmap in progress`
-
-### Oracle
-
-`Certification roadmap in progress`
-
-### NPTEL
-
-`Certification roadmap in progress`
-
-### Cisco
-
-`Certification roadmap in progress`
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Coding%20Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Coding%20Profile-4338CA?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
 
 </div>
 
