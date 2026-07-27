@@ -202,13 +202,7 @@ Modern responsive e-commerce frontend built with React.js and Tailwind CSS focus
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedasjadabbas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=syedasjadabbas&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedasjadabbas&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+<img width="70%" src="https://streak-stats.demolab.com?user=syedasjadabbas&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
