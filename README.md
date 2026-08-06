@@ -202,7 +202,7 @@ Modern responsive e-commerce frontend built with React.js and Tailwind CSS focus
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=syedasjadabbas&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=syedasjadabbas)
 
 </div>
 
