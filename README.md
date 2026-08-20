@@ -15,6 +15,12 @@ Currently, I'm building MockAI, a multimodal AI interview evaluation system comb
 
 I enjoy solving engineering problems around scalable backend architecture, intelligent applications, real-time systems, and turning product requirements into working software.
 
+## Education
+
+**B.S. Computer Science**  
+COMSATS University Islamabad, Lahore Campus  
+2023 – 2027
+
 ### Open To
 
 `Software Engineering` · `AI/ML Engineering` · `Backend Engineering` · `Full-Stack Development` · `Product Engineering` · `Open Source Collaboration`
@@ -66,15 +72,15 @@ I enjoy solving engineering problems around scalable backend architecture, intel
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| Natural Language Processing | Advanced | Semantic analysis, text processing, interview response evaluation, BERT workflows |
-| Transformer Models | Advanced | BERT, Hugging Face Transformers, contextual language representations |
+| Natural Language Processing | Strong | Semantic analysis, text processing, interview response evaluation, BERT workflows |
+| Transformer Models | Strong | BERT, Hugging Face Transformers, contextual language representations |
 | Speech AI | Intermediate | Speech transcription and multimodal interview processing with Whisper-based workflows |
 | Computer Vision | Intermediate | OpenCV pipelines, facial analysis, image processing |
 | Emotion Recognition | Intermediate | DeepFace-based facial emotion analysis and behavioural signals |
 | Deep Learning | Intermediate | Neural network workflows, model integration, PyTorch |
 | Machine Learning | Intermediate | scikit-learn, preprocessing, evaluation, model-driven application development |
-| Multimodal AI | Advanced | Combining text, speech, and facial signals into unified evaluation pipelines |
-| AI Product Engineering | Advanced | Integrating ML pipelines with APIs, frontend applications, databases, and feedback systems |
+| Multimodal AI | Strong | Combining text, speech, and facial signals into unified evaluation pipelines |
+| AI Product Engineering | Strong | Integrating ML pipelines with APIs, frontend applications, databases, and feedback systems |
 
 ---
 
@@ -267,22 +273,6 @@ Implemented member management, attendance tracking, subscription workflows, bill
 ### Google
 
 <img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google-4F46E5?style=for-the-badge&logo=google&logoColor=white" />
-
-### AWS
-
-`Certification roadmap in progress`
-
-### Oracle
-
-`Certification roadmap in progress`
-
-### NPTEL
-
-`Certification roadmap in progress`
-
-### Cisco
-
-`Certification roadmap in progress`
 
 ---
 
