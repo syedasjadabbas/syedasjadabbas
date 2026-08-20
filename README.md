@@ -101,20 +101,33 @@ Founded an AI-focused software studio and manage software projects across archit
 
 <br/>
 
+### Junior AI/ML Engineer · Svype
+
+`Aug 2026 — Present`
+
+Joined Svype as a Junior AI/ML Engineer, transitioning from my previous Software Development Internship into an AI/ML-focused engineering role.
+
+- Work on AI/ML engineering tasks and production-oriented software systems.
+- Apply machine learning concepts to practical product and engineering workflows.
+- Contribute to software development, debugging, testing, and integration across application components.
+- Continue building on experience gained during the development of TuneBox and previous software engineering work.
+
+`Python` `AI/ML` `Machine Learning` `Software Engineering` `API Integration`
+
+<br/>
+
 ### Software Development Intern · Svype
 
-`Sep 2025 — Apr 2026`
+`Sep 2025 — Aug 2026`
 
-Worked on TuneBox, a Flutter-based music streaming application, across frontend engineering and API integration.
+Worked on TuneBox, a Flutter-based music streaming application, across mobile frontend engineering and API integration.
 
 - Built reusable UI modules for playback and playlist workflows.
 - Integrated REST APIs and managed application state using Provider architecture.
-- Reduced UI codebase size by 40% through reusable component abstraction.
-- Collaborated on API contract design, integration testing, and debugging across playback modules.
+- Reduced frontend code duplication by 40% through reusable playback and playlist components.
+- Collaborated on API integration, testing, debugging, and playback workflows.
 
 `Flutter` `Dart` `REST APIs` `Provider` `Postman` `Mobile Engineering`
-
-<br/>
 
 ### Backend & Full-Stack Developer · Freelance
 
