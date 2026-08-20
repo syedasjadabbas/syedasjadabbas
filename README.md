@@ -126,39 +126,135 @@ Deliver backend APIs and full-stack software for business use cases across e-com
 
 ## Featured Projects
 
-### MockAI
+<details>
+<summary><strong>MockAI · Multimodal AI Interview Evaluation Platform</strong></summary>
 
-AI-powered interview evaluation system using NLP, speech recognition, and facial emotion analysis for multimodal performance assessment and intelligent feedback generation.
+<br/>
 
-### EduCart
+AI-powered interview evaluation platform combining NLP, speech processing, and facial emotion analysis to evaluate candidate performance and generate intelligent feedback.
 
-Production-oriented full-stack e-commerce platform featuring scalable backend architecture, AI chatbot workflows, SEO optimization, and JWT-based authentication.
+| Category | Details |
+|:---|:---|
+| **Stack** | Python · FastAPI · React · BERT · Hugging Face · Whisper · DeepFace · OpenCV · MongoDB |
+| **Scale** | Multimodal pipeline combining text, speech, and facial signals |
+| **Performance** | Optimized AI processing and API-based evaluation workflows |
+| **Security** | API-based architecture with controlled data processing |
+| **Impact** | Automated interview assessment and structured candidate feedback |
+| **Repository** | [View Repository](https://github.com/syedasjadabbas/MockAI) |
 
-### TuneBox
+The system integrates multiple AI signals into a unified evaluation workflow, connecting machine learning pipelines with backend APIs, databases, and a web interface.
 
-Flutter-based music streaming application focused on modular frontend architecture, responsive UI workflows, and REST API integration.
+</details>
 
-### zeploy-web 
+---
 
-Official Zeploy Tech website built with React, TypeScript, Tailwind CSS, and premium SaaS-inspired user experience.
+<details>
+<summary><strong>ZePlay · Production-Oriented Video Streaming Platform</strong></summary>
 
-C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
+<br/>
 
+Netflix-style video streaming platform engineered around HLS adaptive bitrate streaming, scalable backend architecture, caching, background processing, and production deployment patterns.
 
-### inventory-system
+| Category | Details |
+|:---|:---|
+| **Stack** | React · TypeScript · Vite · FastAPI · SQLAlchemy · PostgreSQL · Redis · FFmpeg · HLS |
+| **Scale** | Multi-quality HLS streaming with 1080p, 720p, and 480p delivery |
+| **Performance** | Redis caching, background transcoding, adaptive bitrate streaming, optimized API workflows |
+| **Security** | Authentication, protected API architecture, stateless deployment preparation |
+| **Impact** | Production-oriented streaming architecture with scalable media processing |
+| **Repository** | [View Repository](https://github.com/syedasjadabbas/ZePlay) |
 
-Full-stack inventory management system with product tracking, stock monitoring, order management, and administrative controls.
+Implemented the streaming pipeline from video ingestion through FFmpeg transcoding, HLS playlist generation, segment delivery, playback, seeking, and adaptive quality switching.
 
+</details>
 
-### Gym Management System
+---
 
-C#/.NET-based operational management platform featuring membership workflows, attendance tracking, subscription handling, and administrative dashboards.
+<details>
+<summary><strong>EduCart · Full-Stack E-Commerce Platform</strong></summary>
 
+<br/>
 
-### Northstone E-Commerce
+Production-oriented e-commerce platform for online course delivery, combining authentication, product workflows, AI-powered assistance, and full-stack application architecture.
 
-Modern responsive e-commerce frontend built with React.js and Tailwind CSS focused on scalable UI architecture and clean shopping workflows.
+| Category | Details |
+|:---|:---|
+| **Stack** | React · Node.js · Express · MongoDB · JWT · REST API |
+| **Scale** | Full-stack application covering frontend, backend, database, and authentication |
+| **Performance** | Structured API architecture and optimized database workflows |
+| **Security** | JWT authentication and protected application workflows |
+| **Impact** | Complete digital commerce platform for course-based products |
+| **Repository** | [View Repository](https://github.com/syedasjadabbas/EduCart) |
 
+Built the application across frontend architecture, backend APIs, database integration, authentication, e-commerce workflows, and AI chatbot functionality.
+
+</details>
+
+---
+
+<details>
+<summary><strong>TuneBox · Flutter Music Streaming Application</strong></summary>
+
+<br/>
+
+Flutter-based music streaming application focused on modular mobile architecture, reusable UI components, REST API integration, playlist management, and playback workflows.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Flutter · Dart · REST APIs · Provider |
+| **Scale** | Modular mobile application architecture |
+| **Performance** | Reusable components and structured state management |
+| **Security** | API-based application architecture |
+| **Impact** | Production-oriented mobile streaming experience |
+| **Repository** | [View Repository](https://github.com/syedasjadabbas/TuneBox) |
+
+Developed reusable playback and playlist components, integrated REST APIs, managed application state with Provider, and contributed to API integration and debugging workflows.
+
+</details>
+
+---
+
+<details>
+<summary><strong>zeploy-web · Zeploy Tech Platform</strong></summary>
+
+<br/>
+
+Official Zeploy Tech website designed as a modern software engineering and AI-focused digital presence.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | React · TypeScript · Tailwind CSS · Framer Motion |
+| **Scale** | Production business website with responsive architecture |
+| **Performance** | Optimized frontend rendering and responsive interactions |
+| **Security** | Production deployment through Vercel |
+| **Impact** | Digital platform representing Zeploy Tech and its software services |
+| **Repository** | [View Repository](https://github.com/syedasjadabbas/zeploy-web) |
+
+Built the frontend architecture, responsive layouts, animations, SEO elements, and production deployment workflow for Zeploy Tech.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Gym Management System · Desktop Business Application</strong></summary>
+
+<br/>
+
+C#/.NET-based management system designed to handle gym membership, attendance, subscriptions, customer records, billing, and administrative operations.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | C# · .NET · SQL Server |
+| **Scale** | Desktop business application with multiple operational workflows |
+| **Performance** | Structured database operations and CRUD workflows |
+| **Security** | Authentication and controlled administrative access |
+| **Impact** | Digitizes core gym management and administrative operations |
+| **Repository** | [View Repository](https://github.com/syedasjadabbas/Gym-Management-System) |
+
+Implemented member management, attendance tracking, subscription workflows, billing operations, database integration, and administrative dashboards.
+
+</details>
 
 ---
 
