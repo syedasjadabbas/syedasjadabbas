@@ -1,34 +1,33 @@
 <p align="center">
-  <img src="assets/images/git profile banner.png" alt="Banner" />
+  <img src="assets/images/git profile banner.png" alt="Syed Asjad Abbas, AI/ML Engineer" />
 </p>
 
-# Hi, I'm Syed Asjad Abbas 👋
+# Hi, I'm Syed Asjad Abbas
 
+**AI/ML Engineer at SVYPE · Founder & Lead Engineer, Zeploy Tech · Lahore, Pakistan**
 
-## About Me
+I build AI systems that connect models, data, APIs and backend infrastructure into products that work beyond the prototype stage: LLM integration, multimodal evaluation pipelines, and the backend architecture that makes them reliable.
 
-I'm a Computer Science student at COMSATS University Islamabad, Lahore Campus and an AI/ML & Full-Stack Engineer focused on building production-oriented software systems.
+- At **SVYPE**, I integrate machine learning and LLM capabilities into internal platforms and client products. I joined as a Full Stack Development Intern and moved into the AI/ML role in 2026.
+- At **Zeploy Tech**, I lead engineering and delivery of web, backend and AI products, including zeploy.tech and its AI assistant, Zee.
+- I'm a BS Computer Science student at **COMSATS University Islamabad**, Lahore Campus (2023–2027).
 
-My work spans AI-powered applications, backend engineering, full-stack development, and product engineering. I primarily work with Python, FastAPI, React.js, JavaScript, SQL, and modern AI/ML technologies.
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedasjadabbas.dev-0d1117?style=for-the-badge)](https://www.syedasjadabbas.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-asjad-abbas/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjadabbaszaidi@gmail.com)
 
-Currently, I'm building MockAI, a multimodal AI interview evaluation system combining NLP, speech processing, and facial emotion analysis. I also founded Zeploy Tech, where I work across product development, system design, deployment, performance optimisation, and client software.
+### Open To
 
-I enjoy solving engineering problems around scalable backend architecture, intelligent applications, real-time systems, and turning product requirements into working software.
+![AI/ML Engineering](https://img.shields.io/badge/AI%2FML%20Engineering-0d1117?style=flat-square&logoColor=white)
+![Backend Engineering](https://img.shields.io/badge/Backend%20Engineering-0d1117?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0d1117?style=flat-square)
+![Full-Stack Product Engineering](https://img.shields.io/badge/Full--Stack%20Product%20Engineering-0d1117?style=flat-square)
 
 ## Education
 
 **B.S. Computer Science**  
 COMSATS University Islamabad, Lahore Campus  
-2023 – 2027
-
-### Open To
-
-`Software Engineering` · `AI/ML Engineering` · `Backend Engineering` · `Full-Stack Development` · `Product Engineering` · `Open Source Collaboration`
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://www.syedasjadabbas.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-asjad-abbas/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asjadabbaszaidi@gmail.com)
-
+`2023 — 2027`
 
 ---
 
@@ -38,7 +37,45 @@ COMSATS University Islamabad, Lahore Campus
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,cs,sql&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,sql,dart,java,cs&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### AI / ML
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/DistilBERT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Speech-to-Text](https://img.shields.io/badge/Speech--to--Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV%20%2B%20FERPlus-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## What I Work On
+
+| Area | Where I've applied it |
+|:---|:---|
+| **Multimodal AI** | MockAI fuses text, speech and facial signals into one explainable interview score |
+| **LLM integration** | Zee: Gemini streaming with automatic model fallback on zeploy.tech |
+| **Retrieval (RAG)** | Intelligence OS: pgvector hybrid search, reranking and an evaluation framework (in progress) |
+| **AI in product workflows** | FlightOne: the assistant extracts intent, the server owns pricing |
+| **Backend performance** | ZePlay: 84 → 650 req/s with Redis, GZip and workers; Serene Management: search 8.3 s → 0.45 s |
+| **Data integrity** | Serene Management: idempotent payments, append-only ledgers, worker-run night audit |
+
+### Backend & Databases
+
+<div align="center">
+
+[![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis,prisma&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -46,270 +83,179 @@ COMSATS University Islamabad, Lahore Campus
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,flutter&theme=dark)](https://skillicons.dev)
 
 </div>
 
-### Backend & Databases
+### Tools
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,mysql,postgres,firebase&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,linux,postman,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Natural Language Processing | Strong | Semantic analysis, text processing, interview response evaluation, BERT workflows |
-| Transformer Models | Strong | BERT, Hugging Face Transformers, contextual language representations |
-| Speech AI | Intermediate | Speech transcription and multimodal interview processing with Whisper-based workflows |
-| Computer Vision | Intermediate | OpenCV pipelines, facial analysis, image processing |
-| Emotion Recognition | Intermediate | DeepFace-based facial emotion analysis and behavioural signals |
-| Deep Learning | Intermediate | Neural network workflows, model integration, PyTorch |
-| Machine Learning | Intermediate | scikit-learn, preprocessing, evaluation, model-driven application development |
-| Multimodal AI | Strong | Combining text, speech, and facial signals into unified evaluation pipelines |
-| AI Product Engineering | Strong | Integrating ML pipelines with APIs, frontend applications, databases, and feedback systems |
 
 ---
 
 ## Experience
 
+### AI/ML Engineer · SVYPE
+`Jul 2026 — Present` · Lahore (Hybrid)
+
+- Develop and integrate AI capabilities across internal platforms and client-facing products: model integration, data preparation, evaluation and backend implementation.
+- Integrate LLMs and machine learning models into existing products through Python backend services and APIs.
+
+`Python` `Machine Learning` `LLM Integration` `FastAPI` `Model Evaluation`
+
+### Full Stack Development Intern · SVYPE
+`May 2026 — Jul 2026` · Remote
+
+- Built frontend and backend features for JavaScript web applications and REST APIs.
+- Built ZePlay and contributed to TuneBox. Promoted to AI/ML Engineer on completion of the internship.
+
+`JavaScript` `React` `FastAPI` `REST APIs` `Flutter`
+
 ### Founder & Lead Engineer · Zeploy Tech
+`Apr 2026 — Present` · Lahore (Remote)
 
-`Apr 2026 — Present`
+- Lead engineering and delivery of web, backend and AI products, from requirements and system architecture to deployment.
+- Designed and built zeploy.tech and Zee, a Gemini-powered assistant with streaming responses and automatic model fallback.
 
-Founded an AI-focused software studio and manage software projects across architecture, implementation, deployment, QA, and post-launch maintenance.
+`TypeScript` `React` `Gemini API` `System Design` `Delivery`
 
-- Shipped EduCart and a Gym Management System for paying clients within 60 days.
-- Architected full-stack applications using FastAPI, React.js, MySQL, JWT authentication, and CI/CD workflows.
-- Reduced average API latency by approximately 35% through query indexing, connection pooling, and FastAPI response optimisation.
-- Manage requirements gathering, system design, development, testing, deployment, and maintenance.
+### Co-Founder & COO · 100 Se Support
+`Jan 2021 — Present` · Khairpur, Sindh
 
-`FastAPI` `React.js` `MySQL` `JWT` `CI/CD` `GitHub Actions` `Vercel` `System Design`
+- Lead operations for a community welfare initiative: request verification, volunteer coordination and accountable records.
 
-<br/>
-
-### Junior AI/ML Engineer · Svype
-
-`Aug 2026 — Present`
-
-Joined Svype as a Junior AI/ML Engineer, transitioning from my previous Software Development Internship into an AI/ML-focused engineering role.
-
-- Work on AI/ML engineering tasks and production-oriented software systems.
-- Apply machine learning concepts to practical product and engineering workflows.
-- Contribute to software development, debugging, testing, and integration across application components.
-- Continue building on experience gained during the development of TuneBox and previous software engineering work.
-
-`Python` `AI/ML` `Machine Learning` `Software Engineering` `API Integration`
-
-<br/>
-
-### Software Development Intern · Svype
-
-`Sep 2025 — Aug 2026`
-
-Worked on TuneBox, a Flutter-based music streaming application, across mobile frontend engineering and API integration.
-
-- Built reusable UI modules for playback and playlist workflows.
-- Integrated REST APIs and managed application state using Provider architecture.
-- Reduced frontend code duplication by 40% through reusable playback and playlist components.
-- Collaborated on API integration, testing, debugging, and playback workflows.
-
-`Flutter` `Dart` `REST APIs` `Provider` `Postman` `Mobile Engineering`
-
-### Backend & Full-Stack Developer · Freelance
-
-`2024 — Present`
-
-Deliver backend APIs and full-stack software for business use cases across e-commerce and management systems.
-
-- Build applications using FastAPI, React.js, MySQL, and JWT authentication.
-- Work across backend architecture, database design, frontend integration, and deployment.
-- Improve database performance and deployment workflows across client systems.
-
-`Python` `FastAPI` `React.js` `MySQL` `JWT` `Full-Stack Development`
+`Operations` `Team Coordination` `Process Design`
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>MockAI · Multimodal AI Interview Evaluation Platform</strong></summary>
+<summary><strong>MockAI · Multimodal AI Interview Evaluation</strong></summary>
 
 <br/>
 
-AI-powered interview evaluation platform combining NLP, speech processing, and facial emotion analysis to evaluate candidate performance and generate intelligent feedback.
+Scores each recorded interview answer on content, delivery and composure, then fuses the three into an explainable report.
 
-| Category | Details |
+| | |
 |:---|:---|
-| **Stack** | Python · FastAPI · React · BERT · Hugging Face · Whisper · DeepFace · OpenCV · MongoDB |
-| **Scale** | Multimodal pipeline combining text, speech, and facial signals |
-| **Performance** | Optimized AI processing and API-based evaluation workflows |
-| **Security** | API-based architecture with controlled data processing |
-| **Impact** | Automated interview assessment and structured candidate feedback |
-| **Repository** | [View Repository](https://github.com/syedasjadabbas/MockAI) |
-
-The system integrates multiple AI signals into a unified evaluation workflow, connecting machine learning pipelines with backend APIs, databases, and a web interface.
+| **Stack** | Python · FastAPI · React · MongoDB · DistilBERT · Google Speech-to-Text · YuNet + FERPlus · FFmpeg |
+| **How it works** | FFmpeg normalises each recorded answer; three analyzers run in a background worker; late fusion weights content, delivery and composure 50 / 30 / 20 |
+| **Engineering** | Graceful degradation when a camera or microphone is missing, a verbal-primacy rule so silent answers can't score well, difficulty-weighted scoring |
+| **Context** | Final-year project, COMSATS |
+| **Links** | [Repository](https://github.com/syedasjadabbas/MockAI) · [Case study](https://www.syedasjadabbas.dev/case-study/mockai/) |
 
 </details>
-
----
 
 <details>
-<summary><strong>ZePlay · Production-Oriented Video Streaming Platform</strong></summary>
+<summary><strong>ZePlay · Adaptive Video Streaming Platform</strong></summary>
 
 <br/>
 
-Netflix-style video streaming platform engineered around HLS adaptive bitrate streaming, scalable backend architecture, caching, background processing, and production deployment patterns.
+Adaptive-bitrate streaming with background transcoding, built during my SVYPE internship.
 
-| Category | Details |
+| | |
 |:---|:---|
-| **Stack** | React · TypeScript · Vite · FastAPI · SQLAlchemy · PostgreSQL · Redis · FFmpeg · HLS |
-| **Scale** | Multi-quality HLS streaming with 1080p, 720p, and 480p delivery |
-| **Performance** | Redis caching, background transcoding, adaptive bitrate streaming, optimized API workflows |
-| **Security** | Authentication, protected API architecture, stateless deployment preparation |
-| **Impact** | Production-oriented streaming architecture with scalable media processing |
-| **Repository** | [View Repository](https://github.com/syedasjadabbas/ZePlay) |
-
-Implemented the streaming pipeline from video ingestion through FFmpeg transcoding, HLS playlist generation, segment delivery, playback, seeking, and adaptive quality switching.
+| **Stack** | React · TypeScript · FastAPI · PostgreSQL · Redis · FFmpeg · HLS.js · Docker · k6 |
+| **How it works** | Uploads are transcoded in background FFmpeg jobs into 1080p, 720p and 480p HLS renditions; Redis caches hot data in front of PostgreSQL |
+| **Measured** | 650 req/s at 500 concurrent users with 0% failures (local k6 benchmark, 4 workers), a 7.7× throughput gain from 84 req/s; keyset pagination cut a deep-page query from ~295 ms to 0.27 ms; 59/59 backend tests passing |
+| **Links** | [Repository](https://github.com/syedasjadabbas/ZePlay) · [Case study](https://www.syedasjadabbas.dev/case-study/zeplay/) |
 
 </details>
-
----
 
 <details>
-<summary><strong>EduCart · Full-Stack E-Commerce Platform</strong></summary>
+<summary><strong>FlightOne · AI Travel Platform</strong></summary>
 
 <br/>
 
-Production-oriented e-commerce platform for online course delivery, combining authentication, product workflows, AI-powered assistance, and full-stack application architecture.
+A travel platform where the AI is part of the workflow rather than a chat window attached to a website.
 
-| Category | Details |
+| | |
 |:---|:---|
-| **Stack** | React · Node.js · Express · MongoDB · JWT · REST API |
-| **Scale** | Full-stack application covering frontend, backend, database, and authentication |
-| **Performance** | Structured API architecture and optimized database workflows |
-| **Security** | JWT authentication and protected application workflows |
-| **Impact** | Complete digital commerce platform for course-based products |
-| **Repository** | [View Repository](https://github.com/syedasjadabbas/EduCart) |
-
-Built the application across frontend architecture, backend APIs, database integration, authentication, e-commerce workflows, and AI chatbot functionality.
+| **Stack** | Next.js · React · TypeScript · Express · Prisma · PostgreSQL |
+| **How it works** | Ava, the AI travel consultant, turns a request into typed trip parameters; the server calculates every fare, so the model never generates a price |
+| **Scope** | Search and comparison, structured checkout, journey tracking, disruption help and servicing |
+| **Links** | [Case study](https://www.syedasjadabbas.dev/case-study/flightone/) |
 
 </details>
-
----
 
 <details>
-<summary><strong>TuneBox · Flutter Music Streaming Application</strong></summary>
+<summary><strong>Serene Management · Hotel Property Management System</strong></summary>
 
 <br/>
 
-Flutter-based music streaming application focused on modular mobile architecture, reusable UI components, REST API integration, playlist management, and playback workflows.
+Reservations to night audit, for one or many hotels.
 
-| Category | Details |
+| | |
 |:---|:---|
-| **Stack** | Flutter · Dart · REST APIs · Provider |
-| **Scale** | Modular mobile application architecture |
-| **Performance** | Reusable components and structured state management |
-| **Security** | API-based application architecture |
-| **Impact** | Production-oriented mobile streaming experience |
-| **Repository** | [View Repository](https://github.com/syedasjadabbas/TuneBox) |
-
-Developed reusable playback and playlist components, integrated REST APIs, managed application state with Provider, and contributed to API integration and debugging workflows.
+| **Stack** | Next.js · TypeScript · PostgreSQL · Prisma · Zod · GitHub Actions |
+| **Engineering** | Server-side authorization and property isolation, idempotent payments, append-only ledgers, night audit in a background worker (`FOR UPDATE SKIP LOCKED`) |
+| **Measured** | Global search 8.3 s → 0.45 s; 10–25 → 50 req/s with 0 errors, P95 192 ms (single instance, 4-core laptop) |
+| **Links** | [Case study](https://www.syedasjadabbas.dev/case-study/serene-management/) |
 
 </details>
-
----
 
 <details>
-<summary><strong>zeploy-web · Zeploy Tech Platform</strong></summary>
+<summary><strong>Zee · Zeploy Tech AI Assistant</strong></summary>
 
 <br/>
 
-Official Zeploy Tech website designed as a modern software engineering and AI-focused digital presence.
+An AI assistant on zeploy.tech that answers visitors' questions about Zeploy's services.
 
-| Category | Details |
+| | |
 |:---|:---|
-| **Stack** | React · TypeScript · Tailwind CSS · Framer Motion |
-| **Scale** | Production business website with responsive architecture |
-| **Performance** | Optimized frontend rendering and responsive interactions |
-| **Security** | Production deployment through Vercel |
-| **Impact** | Digital platform representing Zeploy Tech and its software services |
-| **Repository** | [View Repository](https://github.com/syedasjadabbas/zeploy-web) |
-
-Built the frontend architecture, responsive layouts, animations, SEO elements, and production deployment workflow for Zeploy Tech.
+| **Stack** | TypeScript · React · Gemini API |
+| **Engineering** | Streamed responses, a focused system prompt, cleaned conversation history and automatic fallback to a second model |
+| **Links** | [Live on zeploy.tech](https://zeploy.tech) |
 
 </details>
-
----
 
 <details>
-<summary><strong>Gym Management System · Desktop Business Application</strong></summary>
+<summary><strong>Intelligence OS · Multi-tenant RAG Platform (in progress)</strong></summary>
 
 <br/>
 
-C#/.NET-based management system designed to handle gym membership, attendance, subscriptions, customer records, billing, and administrative operations.
-
-| Category | Details |
+| | |
 |:---|:---|
-| **Stack** | C# · .NET · SQL Server |
-| **Scale** | Desktop business application with multiple operational workflows |
-| **Performance** | Structured database operations and CRUD workflows |
-| **Security** | Authentication and controlled administrative access |
-| **Impact** | Digitizes core gym management and administrative operations |
-| **Repository** | [View Repository](https://github.com/syedasjadabbas/Gym-Management-System) |
-
-Implemented member management, attendance tracking, subscription workflows, billing operations, database integration, and administrative dashboards.
+| **Stack** | Python · FastAPI · PostgreSQL + pgvector · Redis · Alembic · Docker |
+| **Focus** | Strict tenant isolation, hybrid search (vector + full-text), reranking and a built-in evaluation framework |
+| **Links** | [Repository](https://github.com/syedasjadabbas/intelligence-os) |
 
 </details>
+
+**More work:** [TuneBox](https://github.com/syedasjadabbas/TuneBox) (Flutter) · [EduCart](https://github.com/syedasjadabbas/EduCart) (MERN, academic) · [Gym Management System](https://github.com/syedasjadabbas/Gym-Management-System) (C#, academic) · [Serene Heights 3D](https://github.com/syedasjadabbas/serene-heights-3d-web) (Three.js) · [all case studies](https://www.syedasjadabbas.dev/#projects)
 
 ---
 
 ## Certifications
 
-### DeepLearning.AI
-
-<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-6D28D9?style=for-the-badge&logo=coursera&logoColor=white" />
-
-### Google
-
-<img src="https://img.shields.io/badge/Google%20AI%20Essentials-Google-4F46E5?style=for-the-badge&logo=google&logoColor=white" />
+[![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning%20Specialization-DeepLearning.AI-6D28D9?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/deep-learning)
+[![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-Google-4F46E5?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/learn/google-ai-essentials)
 
 ---
 
 ## Connect With Me
 
-* GitHub: https://github.com/syedasjadabbas
-* LinkedIn: https://linkedin.com/in/syed-asjad-abbas
-* Portfolio: https://www.syedasjadabbas.dev/
-* Email: [asjadabbaszaidi@gmail.com](mailto:asjadabbaszaidi@gmail.com)
-  
----
-## Contribution Activity
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedasjadabbas&bg_color=0D1117&color=A78BFA&line=6366F1&point=8B5CF6&area=true&hide_border=true" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedasjadabbas.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.syedasjadabbas.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-syed--asjad--abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-asjad-abbas/)
+[![Zeploy Tech](https://img.shields.io/badge/Zeploy%20Tech-zeploy.tech-1F6FEB?style=for-the-badge)](https://zeploy.tech)
+[![Email](https://img.shields.io/badge/Email-asjadabbaszaidi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjadabbaszaidi@gmail.com)
 
 </div>
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=syedasjadabbas&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 <img src="https://raw.githubusercontent.com/syedasjadabbas/syedasjadabbas/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
@@ -317,30 +263,18 @@ Implemented member management, attendance tracking, subscription workflows, bill
 
 ---
 
-## Current Focus
+## Currently
 
 ```yaml
-learning:
-  - Scalable System Design
-  - Advanced AI/ML Engineering
-  - Production Backend Architecture
-  - Deep Learning
-  - Cloud Infrastructure
-
 building:
-  - AI-powered software products
-  - Full-stack production systems
-
-exploring:
-  - Multimodal AI
-  - Real-Time Systems
-  - Distributed Architecture
-  - LLM-powered applications
-  - Production ML workflows
-
+  - Intelligence OS: multi-tenant RAG with hybrid search, reranking and evaluation
+  - AI and backend products at Zeploy Tech
+learning:
+  - LLM evaluation and retrieval quality
+  - Production ML systems and observability
+  - System design at scale
 open_to:
-  - Software Engineering Roles
-  - AI/ML Engineering Roles
-  - Backend Engineering Roles
-  - Full-Stack Engineering Roles
-  - Open Source Collaboration
+  - AI/ML Engineering roles
+  - Backend Engineering roles
+  - Technical collaboration and client projects through Zeploy Tech
+```
