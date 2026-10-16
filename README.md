@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/git profile banner.png" alt="Syed Asjad Abbas, AI/ML Engineer" />
+  <img src="assets/git profile banner.png" alt="Syed Asjad Abbas, AI/ML Engineer" />
 </p>
 
 # Hi, I'm Syed Asjad Abbas
