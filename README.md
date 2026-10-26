@@ -238,19 +238,6 @@ An AI assistant on zeploy.tech that answers visitors' questions about Zeploy's s
 
 ---
 
-## Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-syedasjadabbas.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.syedasjadabbas.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-syed--asjad--abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-asjad-abbas/)
-[![Zeploy Tech](https://img.shields.io/badge/Zeploy%20Tech-zeploy.tech-1F6FEB?style=for-the-badge)](https://zeploy.tech)
-[![Email](https://img.shields.io/badge/Email-asjadabbaszaidi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjadabbaszaidi@gmail.com)
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -278,3 +265,15 @@ open_to:
   - Backend Engineering roles
   - Technical collaboration and client projects through Zeploy Tech
 ```
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-syedasjadabbas.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.syedasjadabbas.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-syed--asjad--abbas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-asjad-abbas/)
+[![Zeploy Tech](https://img.shields.io/badge/Zeploy%20Tech-zeploy.tech-1F6FEB?style=for-the-badge)](https://zeploy.tech)
+[![Email](https://img.shields.io/badge/Email-asjadabbaszaidi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asjadabbaszaidi@gmail.com)
+
+</div>
+
+---
