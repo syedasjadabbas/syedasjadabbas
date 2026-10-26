@@ -58,19 +58,6 @@ COMSATS University Islamabad, Lahore Campus
 
 </div>
 
----
-
-## What I Work On
-
-| Area | Where I've applied it |
-|:---|:---|
-| **Multimodal AI** | MockAI fuses text, speech and facial signals into one explainable interview score |
-| **LLM integration** | Zee: Gemini streaming with automatic model fallback on zeploy.tech |
-| **Retrieval (RAG)** | Intelligence OS: pgvector hybrid search, reranking and an evaluation framework (in progress) |
-| **AI in product workflows** | FlightOne: the assistant extracts intent, the server owns pricing |
-| **Backend performance** | ZePlay: 84 → 650 req/s with Redis, GZip and workers; Serene Management: search 8.3 s → 0.45 s |
-| **Data integrity** | Serene Management: idempotent payments, append-only ledgers, worker-run night audit |
-
 ### Backend & Databases
 
 <div align="center">
@@ -94,6 +81,19 @@ COMSATS University Islamabad, Lahore Campus
 [![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,postman,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
+
+---
+
+## What I Work On
+
+| Area | Where I've applied it |
+|:---|:---|
+| **Multimodal AI** | MockAI fuses text, speech and facial signals into one explainable interview score |
+| **LLM integration** | Zee: Gemini streaming with automatic model fallback on zeploy.tech |
+| **Retrieval (RAG)** | Intelligence OS: pgvector + full-text hybrid search, reranking and a CI evaluation gate (Recall@5 0.97, MRR 0.85 on a 50-case benchmark) |
+| **AI in product workflows** | FlightOne: the assistant extracts intent, the server owns pricing |
+| **Backend performance** | ZePlay: 84 → 650 req/s with Redis, GZip and workers; Serene Management: search 8.3 s → 0.45 s |
+| **Data integrity** | Serene Management: idempotent payments, append-only ledgers, worker-run night audit |
 
 ---
 
@@ -215,14 +215,15 @@ An AI assistant on zeploy.tech that answers visitors' questions about Zeploy's s
 </details>
 
 <details>
-<summary><strong>Intelligence OS · Multi-tenant RAG Platform (in progress)</strong></summary>
+<summary><strong>Intelligence OS · Multi-tenant RAG Platform</strong></summary>
 
 <br/>
 
 | | |
 |:---|:---|
-| **Stack** | Python · FastAPI · PostgreSQL + pgvector · Redis · Alembic · Docker |
-| **Focus** | Strict tenant isolation, hybrid search (vector + full-text), reranking and a built-in evaluation framework |
+| **Stack** | Python · FastAPI · PostgreSQL + pgvector · Redis · Next.js · GitHub Actions |
+| **How it works** | Hybrid retrieval (pgvector HNSW + PostgreSQL full-text) fused with Reciprocal Rank Fusion, query rewriting and cross-encoder reranking; grounded answers with page-level citations; tenant isolation from the JWT |
+| **Measured** | 50-case golden benchmark: Recall@5 0.97, MRR 0.85, nDCG@5 0.87, citation precision 1.00, 100% correct refusals; 11/11 CI regression checks pass (offline deterministic judge) |
 | **Links** | [Repository](https://github.com/syedasjadabbas/intelligence-os) |
 
 </details>
