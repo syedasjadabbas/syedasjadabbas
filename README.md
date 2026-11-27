@@ -91,9 +91,10 @@ COMSATS University Islamabad, Lahore Campus
 | **Multimodal AI** | MockAI fuses text, speech and facial signals into one explainable interview score |
 | **LLM integration** | Zee: Gemini streaming with automatic model fallback on zeploy.tech |
 | **Retrieval (RAG)** | Intelligence OS: pgvector + full-text hybrid search, reranking and a CI evaluation gate (Recall@5 0.97, MRR 0.85 on a 50-case benchmark) |
-| **AI in product workflows** | FlightOne: the assistant extracts intent, the server owns pricing |
-| **Backend performance** | ZePlay: 84 → 650 req/s with Redis, GZip and workers; Serene Management: search 8.3 s → 0.45 s |
-| **Data integrity** | Serene Management: idempotent payments, append-only ledgers, worker-run night audit |
+| **AI in product workflows** | FlightOne: Ava runs in the API for web and mobile; the server re-checks every fare with the supplier and writes the quote |
+| **Supplier integration** | FlightOne: real airline and hotel supplier integrations behind one adapter, with a circuit breaker and search cache |
+| **Backend performance** | ZePlay: 84 → 650 req/s with Redis, GZip and workers |
+| **Data integrity** | Serene Management: exact-decimal money, append-only ledgers enforced by PostgreSQL triggers, night audit in one transaction, 1,152 automated tests |
 
 ---
 
@@ -172,13 +173,14 @@ Adaptive-bitrate streaming with background transcoding, built during my SVYPE in
 
 <br/>
 
-A travel platform where the AI is part of the workflow rather than a chat window attached to a website.
+A travel platform where the AI is part of the workflow, now connected to real airline and hotel suppliers. Client project.
 
 | | |
 |:---|:---|
-| **Stack** | Next.js · React · TypeScript · Express · Prisma · PostgreSQL |
-| **How it works** | Ava, the AI travel consultant, turns a request into typed trip parameters; the server calculates every fare, so the model never generates a price |
-| **Scope** | Search and comparison, structured checkout, journey tracking, disruption help and servicing |
+| **Stack** | Next.js · React · TypeScript · Express · Prisma · PostgreSQL · Gemini |
+| **How it works** | Ava, the AI travel consultant, runs in the Express API and serves both the website and the mobile app. When a traveller picks a fare, the server re-checks that exact offer with the supplier and writes the quote itself |
+| **Engineering** | Supplier cost and margin stripped from every customer response, integer money in minor units, supplier circuit breaker, 60-second Gemini cooldown after an overload |
+| **Status** | Mobile app live; hotel supplier certification in progress |
 | **Links** | [Case study](https://www.syedasjadabbas.dev/case-study/flightone/) |
 
 </details>
@@ -192,9 +194,10 @@ Reservations to night audit, for one or many hotels.
 
 | | |
 |:---|:---|
-| **Stack** | Next.js · TypeScript · PostgreSQL · Prisma · Zod · GitHub Actions |
-| **Engineering** | Server-side authorization and property isolation, idempotent payments, append-only ledgers, night audit in a background worker (`FOR UPDATE SKIP LOCKED`) |
-| **Measured** | Global search 8.3 s → 0.45 s; 10–25 → 50 req/s with 0 errors, P95 192 ms (single instance, 4-core laptop) |
+| **Stack** | Express 5 · Next.js 16 · TypeScript · PostgreSQL 18 · Prisma 7 · Zod · GitHub Actions |
+| **Engineering** | Dedicated Express API with validation shared with the client; 13 role templates and 78 permissions checked on the server; property isolation; idempotent payments; append-only ledgers enforced by triggers; night audit in three phases with a business-date lock; exclusion constraints that block double-booked rooms |
+| **Tested** | 1,152 automated tests: 326 server, 360 client and 466 integration tests against PostgreSQL |
+| **Status** | Built and tested, not live yet |
 | **Links** | [Case study](https://www.syedasjadabbas.dev/case-study/serene-management/) |
 
 </details>
@@ -228,7 +231,7 @@ An AI assistant on zeploy.tech that answers visitors' questions about Zeploy's s
 
 </details>
 
-**More work:** [TuneBox](https://github.com/syedasjadabbas/TuneBox) (Flutter) · [EduCart](https://github.com/syedasjadabbas/EduCart) (MERN, academic) · [Gym Management System](https://github.com/syedasjadabbas/Gym-Management-System) (C#, academic) · [Serene Heights 3D](https://github.com/syedasjadabbas/serene-heights-3d-web) (Three.js) · [all case studies](https://www.syedasjadabbas.dev/#projects)
+**More work:** [TuneBox](https://github.com/syedasjadabbas/TuneBox) (Flutter) · [EduCart](https://github.com/syedasjadabbas/EduCart) (MERN, academic) · [Gym Management System](https://github.com/syedasjadabbas/Gym-Management-System) (C#, academic) · [Serene Heights Nathia Gali](https://github.com/syedasjadabbas/serene-nathiagali) (React Three Fiber) · [all case studies](https://www.syedasjadabbas.dev/#projects)
 
 ---
 
@@ -256,6 +259,7 @@ An AI assistant on zeploy.tech that answers visitors' questions about Zeploy's s
 ```yaml
 building:
   - Intelligence OS: multi-tenant RAG with hybrid search, reranking and evaluation
+  - FlightOne: airline and hotel supplier integrations
   - AI and backend products at Zeploy Tech
 learning:
   - LLM evaluation and retrieval quality
